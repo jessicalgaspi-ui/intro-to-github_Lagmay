@@ -1,0 +1,6 @@
+Name:Jessica Lagmay
+Course & Section: BSDSA 2
+Student Number: 2025-0780
+
+Hello! This is my first GitHub repository.
+I am learning how to use GitHub for version control.
